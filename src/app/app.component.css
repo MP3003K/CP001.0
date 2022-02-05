@@ -1,0 +1,22 @@
+.cover{
+  color: white;
+  height: 400px;
+  background-image:url("src/assets/kk.jpg");
+
+
+
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+}
+.cover-small{
+  height: 200px;
+  background-blend-mode: normal;
+}
+.card-title{
+  min-height: 3rem;
+}
+.card-text{
+  min-height: 10rem;
+}
